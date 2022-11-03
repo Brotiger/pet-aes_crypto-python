@@ -17,4 +17,4 @@ if(inp in ["1", "2"]):
     elif(inp == "2"):
         cr = aes.decrypt(text)
 
-    print(cr)
+    print("Результат:", cr)
